@@ -1,0 +1,28 @@
+Problem 1:
+
+Go to Post Office: west 1st left, 1st right, 1st left.
+Pickup a passenger going to Chop Suey.
+Go to Chop Suey: north 1st right, 1st left, 5th right, 1st right.
+Pickup a passenger going to The Babelfishery.
+Pickup another passenger going to The Babelfishery.
+Pickup another passenger going to The Babelfishery.
+Go to The Babelfishery: north 1st left, 1st left.
+Pickup a passenger going to Multiplication Station.
+Pickup another passenger going to Multiplication Station.
+Pickup another passenger going to Multiplication Station.
+Go to Multiplication Station: north 1st right, 2nd left.
+Pickup a passenger going to The Babelfishery.
+Go to The Babelfishery: south 1st right, 1st left.
+Pickup a passenger going to Post Office.
+Go to Post Office: north 1st left, 1st right.
+Go to Taxi Garage: north 1st right, 1st left, 1st right.
+
+Problem 3 blackbox:
+
+Go to Post Office: west 1st left, 1st right, 1st left.
+Pickup a passenger going to Little League Field.
+Go to Little League Field: south 1st left, 2nd left, 1st right.
+Pickup a passenger going to Post Office.
+Go to Post Office: west 1st right, 2nd left.
+Go to Taxi Garage: north 1st right, 1st left, 1st right. 
+
